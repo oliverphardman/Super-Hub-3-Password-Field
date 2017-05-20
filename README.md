@@ -9,5 +9,5 @@ to this:
 
 This helps to protect nosey people around you or watching your screen from learning your password. This simple change should really have been implemented in the modem's firmware. But it's not. So here you go.
 
-#License
+# License
 Licensed under the Apache Software License 2.0. You are free to download, make copies of, modify and redistribute this source code.
