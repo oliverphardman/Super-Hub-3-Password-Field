@@ -1,0 +1,16 @@
+{
+  "manifest_version": 2,
+  "name": "Super Hub 3 Password Field",
+  "version": "1.0",
+  "description": "An extension to replace the standard text field of the Super Hub 3 UI login with a password field.",
+  "icons": { "16": "16.png",
+           "48": "48.png",
+          "128": "128.png" },
+  "content_scripts": [
+    {
+      "matches": ["http://192.168.0.1/"],
+      "js": ["changefield.js"]
+    }
+  ],
+  "author": "starsky135"
+}
